@@ -1,0 +1,190 @@
+<!DOCTYPE html>
+<html lang="en" >
+<head>
+  <meta charset="UTF-8">
+  <title>Umair Nizam - Resume</title>
+ 
+  <meta name="viewport" content="width=device-width"><link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/meyer-reset/2.0/reset.min.css">
+<link rel="stylesheet" href="./img/style.css">
+<link href="./img/favicon.png" rel="icon">
+<link href="./img/apple-touch-icon.png" rel="apple-touch-icon">
+
+</head>
+<body>
+<!-- partial:index.partial.html -->
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+<div class="resume-wrapper">
+	<section class="profile section-padding">
+		<div class="container">
+			<div class="picture-resume-wrapper">
+        <div class="picture-resume">
+        <span><img src="https://s3.amazonaws.com/uifaces/faces/twitter/jsa/128.jpg" alt="" /><img src="./img/umairpic.jpg"/></span>
+        <svg version="1.1" viewBox="0 0 350 350">
+  
+  <defs>
+    <filter id="goo">
+      <feGaussianBlur in="SourceGraphic" stdDeviation="8" result="blur" />
+      <feColorMatrix in="blur" mode="matrix" values="1 0 0 0 0  0 1 0 0 0  0 0 1 0 0  0 0 0 21 -9" result="cm" />
+    </filter>
+  </defs>
+  
+  
+<g filter="url(#goo)" >  
+  
+  <circle id="main_circle" class="st0" cx="171.5" cy="175.6" r="130"/>
+  
+  <circle id="circle" class="bubble0 st1" cx="171.5" cy="175.6" r="122.7"/>
+  <circle id="circle" class="bubble1 st1" cx="171.5" cy="175.6" r="122.7"/>
+  <circle id="circle" class="bubble2 st1" cx="171.5" cy="175.6" r="122.7"/>
+  <circle id="circle" class="bubble3 st1" cx="171.5" cy="175.6" r="122.7"/>
+  <circle id="circle" class="bubble4 st1" cx="171.5" cy="175.6" r="122.7"/>
+  <circle id="circle" class="bubble5 st1" cx="171.5" cy="175.6" r="122.7"/>
+  <circle id="circle" class="bubble6 st1" cx="171.5" cy="175.6" r="122.7"/>
+  <circle id="circle" class="bubble7 st1" cx="171.5" cy="175.6" r="122.7"/>
+  <circle id="circle" class="bubble8 st1" cx="171.5" cy="175.6" r="122.7"/>
+  <circle id="circle" class="bubble9 st1" cx="171.5" cy="175.6" r="122.7"/>
+  <circle id="circle" class="bubble10 st1" cx="171.5" cy="175.6" r="122.7"/>
+
+</g>  
+</svg>
+      </div>
+         <div class="clearfix"></div>
+ </div>
+      <div class="name-wrapper">
+        <h1>Umair <br/>Nizam</h1><!-- YOUR NAME AND LAST NAME  -->
+      </div>
+      <div class="clearfix"></div>
+      <div class="contact-info clearfix">
+      	<ul class="list-titles">
+      		<li>Call</li>
+      		<li>Mail</li>
+      		<li>Web</li>
+      		<li>Home</li>
+      	</ul>
+        <ul class="list-content ">
+        	<li>+919305088297</li> <!-- YOUR PHONE NUMBER  -->
+        	<li>umairnizam007@gmail.com</li> <!-- YOUR EMAIL -->
+        	<li><a href="https://umairnizam.herokuapp.com/">umairnizam.herokuapp.com</a></li> <!-- YOUR WEBSITE  -->
+        	<li>Uttar Pradesh, India</li> <!-- YOUR STATE AND COUNTRY  -->
+        </ul>
+      </div>
+      <div class="contact-presentation"> <!-- YOUR PRESENTATION RESUME  -->
+      	<p><span class="bold">Areas Of Interest: </br></span>1. Cybersecurity</br>2. Python Programming</br>3.Data Science</br>4. Cloud Computing</br>5. Artificial Intelligence</br>6. Penetration Testing</br>7. Using Diff. OS</br>8. Bug Bounty</br>9. Web Scraping</br>10. Dorking</br> </p>
+      </div>
+	  <div class="contact-presentation"> <!-- YOUR PRESENTATION RESUME  -->
+      	<p><span class="bold">Recent Projects: </br></span>1.<a href="https://templeoflearningacademy.wordpress.com/">Temple Of Learning</a> <br/>2.<a href="https://github.com/spyderhacks77/Invention">CoWin Vaccine Tracker</a><br/>3.<a href="https://github.com/spyderhacks77/Invention">Amazon/Flipkart Price Tracker</a><br/>4.<a href="https://gd-master.000webhostapp.com/">GD-Master</a><br/>5.<a href="https://knight-studios.herokuapp.com/">Knight Studios</a></p>
+      </div>
+      <div class="contact-social clearfix">
+      	<ul class="list-titles">
+      		<li>Twitter</li>
+      		<li>Telegram</li>
+      		<li>GitHub</li>
+      	</ul>
+        <ul class="list-content"> <!-- REMEMBER TO PUT THE URL ON THE HREF TAG  -->
+      		<li><a href="https://twitter.com/UmairNizam007">@UmairNizam007</a></li> <!-- YOUR TWITTER USER  -->
+      		<li><a href="https://t.me/spyder_77">@spyder_77</a></li> <!-- YOUR DRIBBBLE USER  -->
+      		<li><a href="https://github.com/spyderhacks77">@spyderhacks77</a></li> <!-- YOUR BEHANCE USER  -->
+      	</ul>
+      </div>
+		</div>
+	</section>
+  
+  <section class="experience section-padding">
+  	<div class="container">
+  		<h3 class="experience-title">Education</h3>
+      
+      <div class="experience-wrapper">
+      	<div class="company-wrapper clearfix">
+      		<div class="experience-title">SSC - CBSE</div> <!-- NAME OF THE COMPANY YOUWORK WITH  -->
+          <div class="time">June-2017</div> <!-- THE TIME YOU WORK WITH THE COMPANY  -->
+      	</div>
+        
+        <div class="job-wrapper clearfix">
+        	<div class="experience-title">Stella Maris Convent Sr. Sec. School, Sultanpur </div> <!-- JOB TITLE  -->
+          <div class="company-description">
+          	<p><b>Subjects: </b><i>Maths, Science, English, Social Science & Hindi</i><br/><b>Overall Grade:</b> 91.2%</p>  <!-- JOB DESCRIPTION  -->
+          </div>
+        </div>
+        
+        <div class="company-wrapper clearfix">
+      		<div class="experience-title">HSC - CBSE</div> <!-- NAME OF THE COMPANY YOUWORK WITH  -->
+          <div class="time">May - 2019</div> <!-- THE TIME YOU WORK WITH THE COMPANY  -->
+      	</div>
+        
+         <div class="job-wrapper clearfix">
+        	<div class="experience-title">Stella Maris Convent Sr. Sec. School, Sultanpur </div> <!-- JOB TITLE  -->
+          <div class="company-description">
+          	<p><b>Subjects: </b><i>Maths, Physics, English, Chemistry, Physical Education & Work Experience</i><br/><b>Overall Grade:</b> 80%</p>  <!-- JOB DESCRIPTION  -->
+          </div>
+        </div>
+        
+        <div class="company-wrapper clearfix">
+      		<div class="experience-title">Diploma - BTEUP</div> <!-- NAME OF THE COMPANY YOUWORK WITH  -->
+          <div class="time">September - 2021</div> <!-- THE TIME YOU WORK WITH THE COMPANY  -->
+      	</div> 
+        
+         <div class="job-wrapper clearfix">
+        	<div class="experience-title">Government Polytechnic Unnao, Uttar Pradesh </div> <!-- JOB TITLE  -->
+          <div class="company-description">
+          	<p><b>Stream: </b><i>Computer Science & Engineering</i><br/><b>Overall Grade:</b> 78.8%</p>   <!-- JOB DESCRIPTION  -->
+          </div>
+        </div>
+		
+	
+        
+      </div><!--Skill experience-->
+      
+      <div class="section-wrapper clearfix">
+      	<h3 class="section-title">Skills</h3>  <!-- YOUR SET OF SKILLS  -->
+        	<ul>
+        		<li class="skill-percentage">Django</li>
+        		<li class="skill-percentage">Pyhton</li>
+        		<li class="skill-percentage">HTML/ CSS/ PHP</li>
+        		<li class="skill-percentage">Cloud Computing</li>
+        		<li class="skill-percentage">Wordpress</li>
+        		<li class="skill-percentage">Cybersecurity</li>
+            
+        	</ul>
+        
+      </div>
+      
+      <div class="section-wrapper clearfix">
+        <h3 class="section-title">Hobbies</h3>  <!-- DESCRIPTION OF YOUR HOBBIES -->
+        <p>1. Football </br>2. Music </br>3. Chess </br>4. Travelling</br>5. Foodie</p>
+        
+         
+      </div>
+	  <div class="section-wrapper clearfix">
+        <h3 class="section-title">Strengths</h3>  <!-- DESCRIPTION OF YOUR HOBBIES -->
+        <p>Believe nothings impossible everything could be achieved by hard work. <br/>Positive Thinking.</br>Good Communication Skills<br/>Calm & Good Sense of humour.</p>
+        
+        
+      </div>
+	  
+	<h3 class="experience-title">Objective</h3>
+	<div class="clearfix">
+        <p>Short term objective is to work as a Developer for Web Application with Python or as a Cybersecurity Officer in a well reputed organisation.<br/><br/>Long term objective is to become a successful Enterpreneur and own a Arms factory & start NGO for poor children education.</p>
+    </div>
+    <h3 class="experience-title">Personal Details</h3>
+	<div class="section-wrapper clearfix">
+          <!-- DESCRIPTION OF YOUR HOBBIES -->
+        <p>Nationality: Indian<br/>Gender: Male<br/>DOB: 29 August; 2001<br/>Permanent Address:<br/>784, Near Head Post Office,<br/>Sultanpur, U.P -228001</p>
+        
+         
+    </div>
+	<div class="section-wrapper clearfix">
+          <!-- DESCRIPTION OF YOUR HOBBIES -->
+        <p>Languages Known: <br/>English<br/>Hindi<br/>Urdu<br/>Arabic<br/>Marathi</p>
+        
+         
+    </div>
+  	</div>
+  </section>
+  
+  <div class="clearfix"></div>
+</div>
+<!-- partial -->
+  <script src='https://cdnjs.cloudflare.com/ajax/libs/gsap/1.18.0/TweenMax.min.js'></script><script  src="./img/script.js"></script>
+
+</body>
+</html>
