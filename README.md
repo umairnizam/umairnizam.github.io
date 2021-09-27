@@ -64,7 +64,7 @@
         <ul class="list-content ">
         	<li>+919305088297</li> <!-- YOUR PHONE NUMBER  -->
         	<li>umairnizam007@gmail.com</li> <!-- YOUR EMAIL -->
-        	<li><a href="https://umairnizam.herokuapp.com/">umairnizam.herokuapp.com</a></li> <!-- YOUR WEBSITE  -->
+        	<li><a href="https://umairnizam.github.io/">umairnizam.herokuapp.com</a></li> <!-- YOUR WEBSITE  -->
         	<li>Uttar Pradesh, India</li> <!-- YOUR STATE AND COUNTRY  -->
         </ul>
       </div>
